@@ -1,0 +1,25 @@
+{
+  "id": "be.test.ping",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "be.test.ping"
+  },
+  "description": {
+    "en": "test"
+  },
+  "category": [
+    "tools"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Arnaud Charles",
+    "email": "arnaud.charles1992@outlook.com"
+  }
+}
